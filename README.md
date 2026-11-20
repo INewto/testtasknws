@@ -25,7 +25,7 @@ AI при выполнении: Tencent Hunyuan Hy. Самостоятельно
 
 ## Ветка и коммит
 
-Для PR создана ветка `fix/triage` от `main`. SHA коммита с исправлениями: `ebcbdc3c9fe0d5478c4de70fc7c0d2c6b476d8b2`. Pull request: https://github.com/INewto/neowise/pull/1
+Для PR создана ветка `fix/triage` от `main`. SHA коммита с исправлениями: `ebcbdc3c9fe0d5478c4de70fc7c0d2c6b476d8b2`. Pull request: https://github.com/INewto/testtasknws/pull/1
 
 ## Польза для менеджера
 
